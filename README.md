@@ -8,7 +8,7 @@
 - 👨‍💻 Internship *[Ai Variant](https://aivariant.com)* refined my expertise in **Python, Web Scraping, Text Mining, Data Preprocessing, EDA, Machine Learning, and Natural Language Processing, along with model deployment.**
 - 👯 My diverse skill set spans **databases, frameworks, programming languages, data analysis, machine learning, and deep learning.** I'm dedicated to helping people and businesses harness the power of data to drive innovation and decision-making.
 
-## Connect with me :
+## `Connect with me :`
 
 <div>
   <p align="left">
@@ -18,10 +18,13 @@
   </p>
 </div>
 
+![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
-## Code and IDE & Tools I Use :
+## `Code and IDE & Tools I Use :`
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="50" height="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/> <img width="50" height="50" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="50" height="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
+## 
+<h2 align="center">♡ Thank you for taking the time ♡</h2>
