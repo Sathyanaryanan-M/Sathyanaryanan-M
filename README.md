@@ -29,7 +29,7 @@
 
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sathyanaryanan-M&label=Profile%20views&color=0e75b6&style=circle" alt="Sathyanaryanan-M" width="16%" /> </p>
-<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyanaryanan-M &theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="Sathyanaryanan-M" />
+<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyanaryanan-M&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="Sathyanaryanan-M" />
 </p>
 <p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Sathyanaryanan-M&show_icons=true&theme=tokyonight"/> </p>
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=Sathyanaryanan-M &theme=neon-palenight" width="50%"  alt="streak"> </p>
