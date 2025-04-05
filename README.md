@@ -26,5 +26,13 @@
 <img width="50" height="50" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/> <img width="50" height="50" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="50" height="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
+
+## `Github Status:` 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sathyanaryanan-M&label=Profile%20views&color=0e75b6&style=circle" alt="Sathyanaryanan-M" width="16%" /> </p>
+<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyanaryanan-M &theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="Sathyanaryanan-M" />
+</p>
+<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Sathyanaryanan-M&show_icons=true&theme=tokyonight"/> </p>
+<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=Sathyanaryanan-M &theme=neon-palenight" width="50%"  alt="streak"> </p>
+
 ## 
 <h2 align="center">♡ Thank you for taking the time ♡</h2>
